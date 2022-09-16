@@ -1,16 +1,15 @@
-# Jump and Win
+# My Library of Works
 
-Projeto feito com auxilio de um dev experiente
+um pequeno projeto feito para visualisar o que eu mais gosto e de quais autores eu mais gosto
 
-![preview](./github/preview-jump.png)
-
-[clique para ver](https://megelado.github.io/jump-and-win/)
+![preview](./git/preview.png)
+[clique aqui para ver](https://megelado.github.io/library-of-works/)
 
 ## Tecnologias
 
 - html
 - css
-- js
+- github
 
 ## Contact-me
 

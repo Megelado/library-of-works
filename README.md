@@ -2,7 +2,7 @@
 
 um pequeno projeto feito para visualisar o que eu mais gosto e de quais autores eu mais gosto
 
-![preview](./git/preview.png)
+![preview](./git/new.png)
 [clique aqui para ver](https://megelado.github.io/library-of-works/)
 
 ## Tecnologias
